@@ -11,7 +11,6 @@ Create a **Task Management Dashboard** with the following features:
 4. Filtering tasks based on their status (e.g., Pending, Completed).
 5. Sorting of the grid by clicking the header
 6. Filtering of tasks based on their Title (Add a search box)
-7. 
 
 ## Functional Requirements
 1. **Task List:**
