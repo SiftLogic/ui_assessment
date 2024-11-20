@@ -9,6 +9,9 @@ Create a **Task Management Dashboard** with the following features:
 2. A **form** to add new tasks.
 3. Editable tasks with inline editing.
 4. Filtering tasks based on their status (e.g., Pending, Completed).
+5. Sorting of the grid by clicking the header
+6. Filtering of tasks based on their Title (Add a search box)
+7. 
 
 ## Functional Requirements
 1. **Task List:**
@@ -32,8 +35,12 @@ Create a **Task Management Dashboard** with the following features:
      - Show All
      - Show Pending
      - Show Completed
+   - Provide a search box for filtering tasks based on Title
 
-4. **Local Storage Integration:**
+4. **Sorting Tasks:**
+   - Add sorting to the header to sort on: Title, Description, Status
+
+5. **Local Storage Integration:**
    - Persist tasks in the browser's local storage so that refreshing the page retains the task list.
 
 ## Technical Requirements
